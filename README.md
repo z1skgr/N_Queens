@@ -12,14 +12,14 @@ The queens represented as values in the array.
 
 
 # Part A : Local Search
-1)Find collision pairs between queens.
-2)Find best available move so collision count is being optimally improved for a random Queen.
-3)Update Grid.
-4)Repeat until no Queen is threatened.
+1)Find collision pairs between queens. __
+2)Find best available move so collision count is being optimally improved for a random Queen. __
+3)Update Grid. __
+4)Repeat until no Queen is threatened. __
 
 # Part B : Constaint Satisfaction
-1)Temporary setup every queen in the first row of each chessboard column.
-2)Fill chessboard with all constraints.
+1)Temporary setup every queen in the first row of each chessboard column. __
+2)Fill chessboard with all constraints. __
 
 Assumption:
 Queens threaten only to the right horizontally and right diagonally. Constraints are not filled from the left and vertically, for the simple reason that threats are mutual and vertically no queen is threatened.
