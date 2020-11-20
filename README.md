@@ -27,7 +27,7 @@ Queens threaten only to the right horizontally and right diagonally. Constraints
 The solution arises after similar movements of queens for each algorithm,resulting in the desired condition of the chessboard.
 
 # How to run
-Run main.java. A menu is appeared with 2 choices.
+Run main.java. A menu is appeared with 2 choices. <br />
 1)Executing algorithms. <br />
 2)Exit program. <br />
 First algorithm prepared to be executed is local search. The results are presented in console.
