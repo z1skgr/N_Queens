@@ -12,14 +12,14 @@ The queens represented as values in the array.
 
 
 # Part A : Local Search
-1)Find collision pairs between queens. __
-2)Find best available move so collision count is being optimally improved for a random Queen. __
-3)Update Grid. __
-4)Repeat until no Queen is threatened. __
+1)Find collision pairs between queens. <br />
+2)Find best available move so collision count is being optimally improved for a random Queen. <br />
+3)Update Grid. <br />
+4)Repeat until no Queen is threatened. <br />
 
 # Part B : Constaint Satisfaction
-1)Temporary setup every queen in the first row of each chessboard column. __
-2)Fill chessboard with all constraints. __
+1)Temporary setup every queen in the first row of each chessboard column. <br />
+2)Fill chessboard with all constraints. <br />
 
 Assumption:
 Queens threaten only to the right horizontally and right diagonally. Constraints are not filled from the left and vertically, for the simple reason that threats are mutual and vertically no queen is threatened.
@@ -28,8 +28,8 @@ The solution arises after similar movements of queens for each algorithm,resulti
 
 # How to run
 Run main.java. A menu is appeared with 2 choices.
-1)Executing algorithms
-2)Exit program
+1)Executing algorithms. <br />
+2)Exit program. <br />
 First algorithm prepared to be executed is local search. The results are presented in console.
 Second algorithm prepared to be executed is constraint satisfaction. The results are presented in console
 
