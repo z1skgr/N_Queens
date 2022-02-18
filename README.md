@@ -1,4 +1,4 @@
-# AI application of algorithms on problems
+# AI_application_of_algorithms_on_probs
 > Solving the problem of n queens using AI algorithms.
 
 ## Table of contents
