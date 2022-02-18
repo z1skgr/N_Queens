@@ -10,18 +10,29 @@
 
 ## General Information
 On an NxN chessboard, the queens are at random points and try to place them in such places that no queen is threatened. For more information, check 
-For more information, check out https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/.
+For more information, check out https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/. <br>
 In our approach, we have 
 1. Local search 
 2. Constraint satisfaction
+
+### Performance Measures
+* Average resolution time for N number of repetitions per number
+queens
+* Average initialization number of the grid to establish the solution
+* Reliability of the solution.
+* Collision minimization
+
+
 
 We use Grid.Java to represent queens in a board ( __NxN__ grid, queen as binary values)
 Grid is randomly initialized with queens in any columns.
 
 ### Hill Climbing
 
-### Constraint Satisfaction 
+https://www.javatpoint.com/hill-climbing-algorithm-in-ai
 
+### Constraint Satisfaction 
+https://en.wikipedia.org/wiki/Constraint_satisfaction
 
 
 ## Setup
