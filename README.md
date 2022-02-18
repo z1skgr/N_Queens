@@ -25,6 +25,7 @@ For more information, check out https://www.geeksforgeeks.org/n-queen-problem-ba
 Java Integrated Development Environment (Eclipse IDE)
 
 ## Screenshot
+https://github.com/z1skgr/Artificial-Intelligence/issues/1#issue-1143769173
 
 ## Room for Improvement
 Room for improvement:
