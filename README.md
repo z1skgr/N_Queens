@@ -1,5 +1,5 @@
 # AI_application_of_algorithms_on_probs
-> Solving the problem of n queens using AI algorithms.
+> Solving the problem of n queens using AI algorithms studying their performance.
 
 ## Table of contents
 * [General Info](#general-information)
