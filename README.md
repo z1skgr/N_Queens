@@ -10,7 +10,9 @@
 
 ## General Information
 On an NxN chessboard, the queens are at random points and try to place them in such places that no queen is threatened. 
-In our approach, we use two different(#1 Local search algorithm, #2 Online search algorithm)
+In our approach, we have 
+1. Local search 
+2. Online search 
 
 We use Grid.Java file to represent queens in a board (consider table as a nxn grid where binary values represent existance of queen)
 
