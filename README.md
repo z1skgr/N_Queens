@@ -9,18 +9,19 @@
 * [Acknowledgements](#acknowledgements)
 
 ## General Information
-On an NxN chessboard, the queens are at random points and try to place them in such places that no queen is threatened. 
+On an NxN chessboard, the queens are at random points and try to place them in such places that no queen is threatened. For more information, check 
+For more information, check out https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/.
 In our approach, we have 
 1. Local search 
-2. Online search 
+2. Constraint satisfaction
 
-We use Grid.Java file to represent queens in a board (consider table as a nxn grid where binary values represent existance of queen)
+We use Grid.Java to represent queens in a board ( __NxN__ grid, queen as binary values)
+Grid is randomly initialized with queens in any columns.
 
 ### Hill Climbing
 
-### Online 
+### Constraint Satisfaction 
 
-For more information, check out https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/.
 
 
 ## Setup
