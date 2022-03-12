@@ -45,7 +45,7 @@ queens
 Java Integrated Development Environment (Eclipse IDE)
 
 ## Screenshot
-https://github.com/z1skgr/Artificial-Intelligence/issues/1#issue-1143769173
+https://github.com/z1skgr/N_Queens/issues/1#issue-1143769173
 
 
 
