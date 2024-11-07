@@ -1,4 +1,4 @@
-package texnhthfinal;
+package main;
 
 import java.util.Random;
 
@@ -84,7 +84,7 @@ public class Constraint {
 		
 		int i,j;
 
-		//Diagwnia - Southeast
+		//Diagonally - South east
 		i=x+1;
 		j=y+1;
 		while (i<N && j<N) {
@@ -94,7 +94,7 @@ public class Constraint {
 			j++;
 		}
 
-		//Diagwnia - Northeast
+		//Diagonally - Northeast
 		i=x-1;
 		j=y+1;
 		while (i>=0 && j<N) {
@@ -104,7 +104,7 @@ public class Constraint {
 			j++;
 		}
 		
-		//Diagwnia - Northwest
+		//Diagonally - Northwest
 		i=x-1;
 		j=y-1;
 		while (i>=0 && j>=0) {
@@ -114,7 +114,7 @@ public class Constraint {
 			j--;
 		}
 		
-		//Diagwnia - Southwest
+		//Diagonally - South west
 		i=x+1;
 		j=y-1;
 		while (i<N && j>=0) {
@@ -168,7 +168,7 @@ public class Constraint {
 		
 		int i,j;
 
-		//Diagwnia - Southeast
+		//Diagonally - South east
 		i=x+1;
 		j=y+1;
 		while (i<N && j<N) {
@@ -180,7 +180,7 @@ public class Constraint {
 			j++;
 		}
 
-		//Diagwnia - Northeast
+		//Diagonally - Northeast
 		i=x-1;
 		j=y+1;
 		while (i>=0 && j<N) {
@@ -192,7 +192,7 @@ public class Constraint {
 			j++;
 		}
 		
-		//Diagwnia - Northwest
+		//Diagonally - Northwest
 		i=x-1;
 		j=y-1;
 		while (i>=0 && j>=0) {
@@ -204,7 +204,7 @@ public class Constraint {
 			j--;
 		}
 		
-		//Diagwnia - Southwest
+		//Diagonally - South west
 		i=x+1;
 		j=y-1;
 		while (i<N && j>=0) {
